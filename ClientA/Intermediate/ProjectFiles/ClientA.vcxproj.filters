@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ClientA.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0652C8BB-5E93-4202-87AE-5077E681C19B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClientA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ClientAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1CD2D1E7-F900-48B0-9887-22C90A606EA1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ClientA">
+      <UniqueIdentifier>{3BF1DD03-48C5-4B8E-8A9F-44F5A4B205BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClientA\ClientA.Build.cs">
+      <Filter>Source\ClientA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ClientA\ClientA.cpp">
+      <Filter>Source\ClientA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientA\ClientA.h">
+      <Filter>Source\ClientA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientA\ClientABlock.cpp">
+      <Filter>Source\ClientA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientA\ClientABlock.h">
+      <Filter>Source\ClientA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientA\ClientABlockGrid.cpp">
+      <Filter>Source\ClientA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientA\ClientABlockGrid.h">
+      <Filter>Source\ClientA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientA\ClientAGameMode.cpp">
+      <Filter>Source\ClientA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientA\ClientAGameMode.h">
+      <Filter>Source\ClientA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientA\ClientAPawn.cpp">
+      <Filter>Source\ClientA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientA\ClientAPawn.h">
+      <Filter>Source\ClientA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientA\ClientAPlayerController.cpp">
+      <Filter>Source\ClientA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientA\ClientAPlayerController.h">
+      <Filter>Source\ClientA</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

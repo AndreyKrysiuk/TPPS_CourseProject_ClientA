@@ -1,0 +1,3 @@
+D:\KPI\Master\FIRST\TPPS\CourseProject\TPPS_CourseProject_ClientA\ClientA\Source\ClientA\ClientA.Build.cs
+D:\KPI\Master\FIRST\TPPS\CourseProject\TPPS_CourseProject_ClientA\ClientA\Source\ClientA.Target.cs
+D:\KPI\Master\FIRST\TPPS\CourseProject\TPPS_CourseProject_ClientA\ClientA\Source\ClientAEditor.Target.cs
